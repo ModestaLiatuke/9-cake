@@ -1,8 +1,8 @@
 ## Cake
 
-32 group website project
 
-This project is for educational porpuses only. Pull request are welcome, but priority for project authors! Thank you for your cooperation!
+
+This project is for educational porpuses only. Pull request are welcome, but priority for project authors! 
 
 Site published at: https://modestaliatuke.github.io/9-cake/
 
